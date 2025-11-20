@@ -30,17 +30,3 @@ CSS3
 
 JavaScript
 
-📁 Folder Structure
-project/
-│── index.html
-│── style.css
-│── script.js
-└── assets/
-    ├── images/
-    └── icons/
-
-🔧 Installation
-
-Clone the repository:
-
-git clone your-repo-link
